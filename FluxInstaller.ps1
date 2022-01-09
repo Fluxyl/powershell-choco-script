@@ -39,3 +39,4 @@ choco install crystaldiskinfo --version 8.13.3 -y
 choco install dolphin --version 5.0.0.20201120 -y
 choco install github-desktop --version 2.9.6 -y
 choco install telegram --version 3.4.3 -y
+choco install hugo
