@@ -1,48 +1,41 @@
-choco install firefox -y
-choco install notepadplusplus.install -y
-choco install 7zip.install -y
-choco install vlc -y
-choco install python3 -y
-choco install git.install -y
-choco install zoom -y
-choco install gimp -y
-choco install vscode -y
-choco install thunderbird -y
-choco install spotify -y
-choco install virtualbox -y
-choco install irfanview -y
-choco install audacity -y
-choco install everything -y
-choco install brave -y
-choco install gh -y
-choco install MusicBee -y
-choco install AIMP -y
-choco install discord -y
-choco install steam -y
-choco install telegram -y
-choco install qBittorent -y
-choco install pia -y
-choco install msiafterburner -y
-choco install blender -y
-choco install eartrumpet -y
-choco install Keypirinha -y
-choco install cpu-z.install -y
-choco install hwinfo.install -y
-choco install procexp -y
-choco install wiztree -y
-choco install obs-studio -y
-choco install autoruns -y
-choco install tor-browser -y
-choco install dolphin -y
-choco install cmder -y
-choco install processhacker -y
-choco install mpv -y
-
-# Install the following manually..
-# Java
-# Metro4Steam
-# Office
-# VIA
-# Ubuntu/Linux in general to a Virtual Machine
-# Docker
-# choco install firacode-ttf -y // Depreciated
+choco install googlechrome --version 97.0.4692.71 -y
+choco install firefox --version 95.0.2 -y
+choco install brave --version 1.34.80 -y
+choco install gimp --version 2.10.30 -y
+choco install openjdk11 --version 11.0.13.8 -y
+choco install notion --version 2.0.18 -y
+choco install obs-studio --version 27.1.3 -y
+choco install zoom --version 5.9.1.2581 -y
+choco install discord --version 1.0.9003 -y
+choco install signal --version 5.27.1 -y
+choco install hexchat --version 2.14.3 -y
+choco install k-litecodecpackfull --version 16.7.0 -y
+choco install foobar2000 --version 1.6.9 -y
+choco install audacity --version 3.1.3 -y
+choco install vscode --version 1.63.2 -y
+choco install python --version 3.10.1 -y
+choco install notepadplusplus --version 8.2 -y
+choco install putty --version 0.76 -y
+choco install winscp --version 5.19.5 -y
+choco install virtualbox --version 6.1.30 -y
+choco install git --version 2.34.1 -y
+choco install 7zip --version 21.7 -y
+choco install qbittorrent --version 4.4.0 -y
+choco install wiztree --version 4.07 -y
+choco install rufus --version 3.17 -y
+choco install everything --version 1.4.11015 -y
+choco install hwinfo --version 7.16 -y
+choco install mremoteng --version 1.76.20.24615 -y
+choco install autohotkey --version 1.1.33.10 -y
+choco install h2testw --version 1.4.20180717 -y
+choco install streamlink --version 2.3.0 -y
+choco install eartrumpet --version 2.1.9.0 -y
+choco install sysinternals --version 2021.12.16 -y
+choco install curl --version 7.81.0 -y
+choco install vim --version 8.2.4046 -y
+choco install golang --version 1.17.6 -y
+choco install powertoys --version 0.53.1 -y
+choco install crystaldiskinfo --version 8.13.3 -y
+choco install dolphin --version 5.0.0.20201120 -y
+choco install github-desktop --version 2.9.6 -y
+choco install telegram --version 3.4.3 -y
