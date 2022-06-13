@@ -7,8 +7,6 @@ choco install notion --version 2.0.18 -y
 choco install obs-studio --version 27.1.3 -y
 choco install zoom --version 5.9.1.2581 -y
 choco install discord --version 1.0.9003 -y
-choco install signal --version 5.27.1 -y
-choco install hexchat --version 2.14.3 -y
 choco install k-litecodecpackfull --version 16.7.0 -y
 choco install foobar2000 --version 1.6.9 -y
 choco install audacity --version 3.1.3 -y
@@ -25,18 +23,12 @@ choco install wiztree --version 4.07 -y
 choco install rufus --version 3.17 -y
 choco install everything --version 1.4.11015 -y
 choco install hwinfo --version 7.16 -y
-choco install mremoteng --version 1.76.20.24615 -y
 choco install autohotkey --version 1.1.33.10 -y
-choco install h2testw --version 1.4.20180717 -y
-choco install streamlink --version 2.3.0 -y
 choco install eartrumpet --version 2.1.9.0 -y
-choco install sysinternals --version 2021.12.16 -y
 choco install curl --version 7.81.0 -y
 choco install vim --version 8.2.4046 -y
-choco install golang --version 1.17.6 -y
 choco install powertoys --version 0.53.1 -y
 choco install crystaldiskinfo --version 8.13.3 -y
 choco install dolphin --version 5.0.0.20201120 -y
 choco install github-desktop --version 2.9.6 -y
 choco install telegram --version 3.4.3 -y
-choco install hugo
